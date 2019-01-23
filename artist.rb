@@ -9,5 +9,5 @@ class CreateArtists < ActiveRecord::Migration
     end
   end
 end
-class Artist 
+class Artist
 end
