@@ -9,4 +9,3 @@ class Artists < ActiveRecord::Migration
     end
   end
 end
-
